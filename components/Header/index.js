@@ -39,7 +39,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   >
                     <img
                       className="h-6"
-                      src={`/images/${
+                      src={`./images/${
                         theme === "dark" ? "moon.svg" : "sun.svg"
                       }`}
                     ></img>
@@ -49,7 +49,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 <Popover.Button>
                   <img
                     className="h-5"
-                    src={`/images/${
+                    src={`./images/${
                       !open
                         ? theme === "dark"
                           ? "menu-white.svg"
@@ -150,7 +150,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               >
                 <img
                   className="h-6"
-                  src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
+                  src={`./images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 ></img>
               </Button>
             )}
@@ -178,7 +178,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               >
                 <img
                   className="h-6"
-                  src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
+                  src={`./images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 ></img>
               </Button>
             )}
