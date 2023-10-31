@@ -13,8 +13,9 @@
                {"id":"3","title":"Twitter","link":"https://twitter.com/jordanjuniordjimelykheambo"},
                
                {"id":"5","title":"Email","link":"mailto:jordanjuniordjimelykheambo@gmail.com"}],
-    "projects":[{"id":"1","title":"Project One","description":"Web Development","imageSrc":"./images/passionate.jpg","url":"https://passionatecenterandhomes.com/"},
-                {"id":"2","title":"Project Two","description":"Web Development","imageSrc":"./images/second.jpg","url":"https://jordanjunior22.github.io/attire.github.io/index.html"}],
+    "projects":[{"id":"1","title":"Exchange Rate Api App (Front & Back)","description":"Web Development","imageSrc":"./images/currency1.jpg","url":"https://exchange-rate-app-nine.vercel.app/"},
+                {"id":"2","title":"Home Care (Front & Back)","description":"Web Development","imageSrc":"./images/passionate.jpg","url":"https://passionatecenterandhomes.com/"},
+                {"id":"3","title":"Ecommerce Website (Front)","description":"Web Development","imageSrc":"./images/second.jpg","url":"https://jordanjunior22.github.io/attire.github.io/index.html"}],
     "services":[{"id":"1","title":"Social Media Marketing","description":"Can help Boost your brand's online presence with my expert social media marketing services. Engage, grow, and convert your audience effectively."},
                 {"id":"2","title":"Web Development","description":"Elevate your online presence with my professional web development services. Crafted websites for your success."},
                 {"id":"3","title":"UX/UI Design","description":"Enhance user experiences with my expert UX design services. Elevate your digital products for better engagement and satisfaction."},
